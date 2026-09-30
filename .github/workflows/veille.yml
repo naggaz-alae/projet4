@@ -1,0 +1,47 @@
+name: Veille quotidienne
+
+# Chaque matin : photo du jour, comparaison avec la veille, rapport et flux.
+# Les fichiers produits sont commités dans donnees/ : l'historique Git EST
+# l'historique des ruptures (technique du « git scraping »).
+
+on:
+  schedule:
+    - cron: "23 6 * * *"      # tous les jours à 06:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+
+      - name: Photo du jour
+        run: veille-ruptures -v instantane --dossier donnees/instantanes
+
+      - name: Rapport et flux
+        run: |
+          LIEN="https://github.com/${{ github.repository }}/blob/main/donnees/RAPPORT.md"
+          veille-ruptures rapport --dossier donnees/instantanes --sortie donnees/RAPPORT.md
+          veille-ruptures flux --dossier donnees/instantanes --sortie donnees/flux.xml --lien "$LIEN"
+          veille-ruptures flux --dossier donnees/instantanes --sortie donnees/evenements.json --format json
+
+      - name: Enregistrer dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add donnees
+          git diff --cached --quiet && { echo "Aucun changement"; exit 0; }
+          git commit -m "donnees: veille du $(date -u +%F)"
+          git push

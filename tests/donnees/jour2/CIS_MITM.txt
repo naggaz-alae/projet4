@@ -1,0 +1,2 @@
+60000002	A02BC01	GASTROFICTIF 20 mg, gélule	https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=60000002
+60000005	N02BE01	ANTALFICTIF 1 g, comprimé	https://base-donnees-publique.medicaments.gouv.fr/extrait.php?specid=60000005

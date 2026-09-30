@@ -1,0 +1,42 @@
+site_name: veille-ruptures
+site_description: Surveiller les ruptures et tensions d'approvisionnement de médicaments en France
+site_url: https://naggaz-alae.github.io/projet4/
+repo_url: https://github.com/naggaz-alae/projet4
+repo_name: naggaz-alae/projet4
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      toggle: { icon: material/weather-night, name: Mode sombre }
+    - scheme: slate
+      toggle: { icon: material/weather-sunny, name: Mode clair }
+  features:
+    - content.code.copy
+    - navigation.sections
+
+nav:
+  - Accueil: index.md
+  - Démarrage: demarrage.md
+  - Ligne de commande: cli.md
+  - Veille automatique: veille-automatique.md
+  - Méthodologie: methodologie.md
+  - Référence de l'API: api.md
+
+plugins:
+  - search:
+      lang: fr
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [src]
+          options:
+            show_source: false
+            docstring_style: google
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.superfences
+  - pymdownx.details

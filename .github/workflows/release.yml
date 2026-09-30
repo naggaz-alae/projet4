@@ -1,0 +1,60 @@
+name: Publication
+
+# - Lancement manuel (onglet Actions) : publication sur TestPyPI, pour s'entraîner.
+# - Publication d'une « Release » GitHub (tag vX.Y.Z) : publication sur PyPI.
+# Authentification par « Trusted Publishing » (OIDC) : AUCUN mot de passe ni jeton stocké.
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  construction:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Le tag doit correspondre à la version du code
+        if: github.event_name == 'release'
+        run: |
+          VERSION=$(python -c "import re;print(re.search(r'__version__ = \"(.+)\"', open('src/veille_ruptures/__init__.py').read()).group(1))")
+          test "v$VERSION" = "${{ github.event.release.tag_name }}" || { echo "Tag ${{ github.event.release.tag_name }} ≠ version $VERSION"; exit 1; }
+      - run: pip install build
+      - run: python -m build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+  testpypi:
+    if: github.event_name == 'workflow_dispatch'
+    needs: construction
+    runs-on: ubuntu-latest
+    environment: testpypi
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          repository-url: https://test.pypi.org/legacy/
+
+  pypi:
+    if: github.event_name == 'release'
+    needs: construction
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1

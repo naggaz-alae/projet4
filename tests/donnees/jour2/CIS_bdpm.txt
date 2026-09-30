@@ -1,0 +1,6 @@
+60000001	FICTIFAMOL 500 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	12/03/2001			LABORATOIRE ALPHA	Non
+60000002	GASTROFICTIF 20 mg, gélule	gélule	orale	Autorisation active	Procédure nationale	Commercialisée	05/06/2010			LABORATOIRE BETA	Non
+60000003	DERMOFICTIF 1 %, crème	crème	cutanée	Autorisation active	Procédure nationale	Commercialisée	01/01/2015			LABORATOIRE ALPHA	Non
+60000004	ANCIENFICTIF 10 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	01/01/1999			LABORATOIRE GAMMA	Non
+60000005	ANTALFICTIF 1 g, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	20/02/2005			LABORATOIRE BETA	Oui
+60000006	CARDIOFICTIF 5 mg, comprimé	comprimé	orale	Autorisation active	Procédure nationale	Commercialisée	11/11/2011			LABORATOIRE ALPHA	Non

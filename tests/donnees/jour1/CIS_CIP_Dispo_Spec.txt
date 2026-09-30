@@ -1,0 +1,4 @@
+60000001	3400900000011	1	Rupture de stock	01/09/2026	25/09/2026		https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/exemple-a
+60000002	3400900000028	2	Tension d'approvisionnement	15/09/2026	25/09/2026		https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/exemple-b
+60000003	3400900000035	2	Tension d'approvisionnement	10/08/2026	20/09/2026		https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/exemple-c
+60000004	3400900000042	3	Arrêt de commercialisation	01/07/2026	01/07/2026		https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/exemple-d
