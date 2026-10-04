@@ -3,8 +3,8 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 03/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 04/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 03 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:00:00 +0000</lastBuildDate>
   </channel>
 </rss>
