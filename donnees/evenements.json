@@ -1,6 +1,115 @@
 {
-  "date": "2026-10-05",
-  "attribution": "Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 05/10/2026.",
+  "date": "2026-10-06",
+  "attribution": "Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 06/10/2026.",
   "avertissement": "Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.",
-  "evenements": []
+  "evenements": [
+    {
+      "type": "nouvelle_rupture",
+      "libelle": "Nouvelle rupture",
+      "date": "2026-10-06",
+      "cle": "69389575:",
+      "denomination": "PLERIXAFOR ARROW 20 mg/mL, solution injectable",
+      "titulaire": "EUGIA PHARMA (MALTA) (MALTE)",
+      "est_mitm": false,
+      "statut_avant": null,
+      "statut_apres": "rupture",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/plerixafor-arrow-20-mg-ml-solution-injectable-plerixafor"
+    },
+    {
+      "type": "nouvelle_tension",
+      "libelle": "Nouvelle tension",
+      "date": "2026-10-06",
+      "cle": "65012445:",
+      "denomination": "KETOPROFENE PHARMY II 100 mg/2 ml, solution injectable intramusculaire (I.M.)",
+      "titulaire": "LABORATOIRES ETHYPHARM",
+      "est_mitm": false,
+      "statut_avant": "remise_a_disposition",
+      "statut_apres": "tension",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/ketoprofene-pharmy-ii-100-mg-2-ml-solution-injectable-intramusculaire-i-m-ketoprofene"
+    },
+    {
+      "type": "nouvelle_tension",
+      "libelle": "Nouvelle tension",
+      "date": "2026-10-06",
+      "cle": "60374821:",
+      "denomination": "MYTELASE 10 mg, comprimé",
+      "titulaire": "NEURAXPHARM FRANCE",
+      "est_mitm": true,
+      "statut_avant": null,
+      "statut_apres": "tension",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/mytelase-10-mg-comprime-chlorure-dambenonium"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "60756917:",
+      "denomination": "CONCERTA LP 18 mg, comprimé à libération prolongée",
+      "titulaire": "JANSSEN CILAG",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "63930084:",
+      "denomination": "CONCERTA LP 36 mg, comprimé à libération prolongée",
+      "titulaire": "JANSSEN CILAG",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "60047182:",
+      "denomination": "CONCERTA LP 54 mg, comprimé à libération prolongée",
+      "titulaire": "JANSSEN CILAG",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "60921824:",
+      "denomination": "INDOCOLLYRE 0,1 %, collyre en solution",
+      "titulaire": "LABORATOIRE CHAUVIN",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/indocollyre-0-1-collyre-en-solution-indometacine"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "64930518:",
+      "denomination": "METOPROLOL SANDOZ 50 mg, comprimé",
+      "titulaire": "SANDOZ",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/metoprolol-sandoz-50-mg-comprime-metoprolol-tartrate-de"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-10-06",
+      "cle": "66018611:",
+      "denomination": "TUBERCULINE PPD RT 23 AJV 2T.U. / 0,1 mL, solution injectable",
+      "titulaire": "AJ VACCINES",
+      "est_mitm": false,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tuberculine-ppd-rt-23-ajv-2t-u-0-1-ml-solution-injectable-tuberculine-ppd-rt-23"
+    }
+  ]
 }

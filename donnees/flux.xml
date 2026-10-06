@@ -3,8 +3,71 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 05/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 06/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <item>
+      <title>🔴 Nouvelle rupture : PLERIXAFOR ARROW 20 mg/mL, solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/plerixafor-arrow-20-mg-ml-solution-injectable-plerixafor</link>
+      <description>Statut : Rupture — Laboratoire : EUGIA PHARMA (MALTA) (MALTE)</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:nouvelle_rupture:69389575:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : KETOPROFENE PHARMY II 100 mg/2 ml, solution injectable intramusculaire (I.M.)</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/ketoprofene-pharmy-ii-100-mg-2-ml-solution-injectable-intramusculaire-i-m-ketoprofene</link>
+      <description>Statut : Tension — Laboratoire : LABORATOIRES ETHYPHARM</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:nouvelle_tension:65012445:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : MYTELASE 10 mg, comprimé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/mytelase-10-mg-comprime-chlorure-dambenonium</link>
+      <description>Statut : Tension — Laboratoire : NEURAXPHARM FRANCE</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:nouvelle_tension:60374821:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : CONCERTA LP 18 mg, comprimé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : JANSSEN CILAG</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:60756917:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : CONCERTA LP 36 mg, comprimé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : JANSSEN CILAG</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:63930084:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : CONCERTA LP 54 mg, comprimé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/concerta-lp-comprime-a-liberation-prolongee-methylphenidate-chlorhydrate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : JANSSEN CILAG</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:60047182:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : INDOCOLLYRE 0,1 %, collyre en solution [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/indocollyre-0-1-collyre-en-solution-indometacine</link>
+      <description>Statut : Remise à disposition — Laboratoire : LABORATOIRE CHAUVIN</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:60921824:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : METOPROLOL SANDOZ 50 mg, comprimé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/metoprolol-sandoz-50-mg-comprime-metoprolol-tartrate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : SANDOZ</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:64930518:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : TUBERCULINE PPD RT 23 AJV 2T.U. / 0,1 mL, solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tuberculine-ppd-rt-23-ajv-2t-u-0-1-ml-solution-injectable-tuberculine-ppd-rt-23</link>
+      <description>Statut : Remise à disposition — Laboratoire : AJ VACCINES</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06:remise_a_disposition:66018611:</guid>
+    </item>
   </channel>
 </rss>
