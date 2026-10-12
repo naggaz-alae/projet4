@@ -3,9 +3,58 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 11/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 12/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 11 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <item>
+      <title>🟠 Nouvelle tension : MODAMIDE 5 mg, comprimé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/modamide-5-mg-comprime-amiloride-chlorhydrate-d-dihydrate</link>
+      <description>Statut : Tension — Laboratoire : SUBSTIPHARM</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:nouvelle_tension:63371015:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : PNEUMOVAX, solution injectable en seringue préremplie. Vaccin pneumococcique polyosidique [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/pneumovax-solution-injectable-en-seringue-preremplie-vaccin-pneumococcique-polyosidique-streptococcus-pneumoniae</link>
+      <description>Statut : Tension — Laboratoire : MSD FRANCE</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:nouvelle_tension:60614280:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : RAPAMUNE 1 mg/ml, solution buvable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/rapamune-1-mg-ml-solution-buvable-sirolimus</link>
+      <description>Statut : Tension — Laboratoire : PFIZER EUROPE MA EEIG (BELGIQUE)</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:nouvelle_tension:61752409:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : WINREVAIR 45 mg, poudre et solvant pour solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/winrevair-45mg-et-60mg-poudre-et-solvant-pour-solution-injectable-sotatercept</link>
+      <description>Statut : Tension — Laboratoire : MERCK SHARP &amp; DOHME (PAYS-BAS)</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:nouvelle_tension:61615894:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : WINREVAIR 60 mg, poudre et solvant pour solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/winrevair-45mg-et-60mg-poudre-et-solvant-pour-solution-injectable-sotatercept</link>
+      <description>Statut : Tension — Laboratoire : MERCK SHARP &amp; DOHME (PAYS-BAS)</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:nouvelle_tension:61402622:</guid>
+    </item>
+    <item>
+      <title>⬆️ Aggravation (tension → rupture) : LARIAM 250 mg, comprimé sécable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lariam-250-mg-comprime-secable-mefloquine</link>
+      <description>Statut : Rupture — Laboratoire : CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:aggravation:65999556:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : IXIARO, suspension injectable. Vaccin de l'encéphalite japonaise (inactivé, adsorbé) [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/ixiaro-suspension-injectable-vaccin-de-lencephalite-japonaise-inactive-adsorbe-virus-de-lencephalite-japonaise-inactive-souche-sa-14-14-2-mammifere-singe-cellules-vero</link>
+      <description>Statut : Remise à disposition — Laboratoire : VALNEVA AUSTRIA (AUTRICHE)</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12:remise_a_disposition:62816512:</guid>
+    </item>
     <item>
       <title>🔴 Nouvelle rupture : PLERIXAFOR ARROW 20 mg/mL, solution injectable</title>
       <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/plerixafor-arrow-20-mg-ml-solution-injectable-plerixafor</link>
