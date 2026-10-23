@@ -3,9 +3,366 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 21/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 23/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <item>
+      <title>🔴 Nouvelle rupture : OXYBATE DE SODIUM REIG JOFRE 500 mg/mL, solution buvable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oxybate-de-sodium-reig-jofre-500-mg-ml-solution-buvable-sodium-oxybate-de</link>
+      <description>Statut : Rupture — Laboratoire : LABORATORIO REIG JOFRE (ESPAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_rupture:69096857:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : ADEMPAS 0,5 mg, comprimé pelliculé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/adempas-0-5-mg-comprime-pellicule-riociguat</link>
+      <description>Statut : Tension — Laboratoire : BAYER AG (ALLEMAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:64832942:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : DIAMOX 250 mg, comprimé sécable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/diamox-250-mg-comprime-secable-acetazolamide</link>
+      <description>Statut : Tension — Laboratoire : COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:68693244:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : ENANTONE LP 3,75 mg, microsphères et solution pour usage parentéral (S.C. ou I.M.) à libération prolongée en seringue pré-remplie [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/enantone-lp-3-75-mg-microspheres-et-solution-pour-usage-parenteral-s-c-ou-i-m-a-liberation-prolongee-en-seringue-pre-remplie-leuproreline</link>
+      <description>Statut : Tension — Laboratoire : TAKEDA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:63589409:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : HYDROCORTISONE UPJOHN 100 mg, préparation injectable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/hydrocortisone-upjohn-100-mg-preparation-injectable-hydrocortisone-hydrogenosuccinate-sodique-d</link>
+      <description>Statut : Tension — Laboratoire : SERB</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:61581417:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : IKERVIS 1 mg/mL, collyre en émulsion [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/ikervis-1-mg-ml-collyre-en-emulsion-ciclosporine</link>
+      <description>Statut : Tension — Laboratoire : SANTEN OY</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:65881230:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : MICROVAL, comprimé enrobé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/microval-comprime-enrobe-levonorgestrel</link>
+      <description>Statut : Tension — Laboratoire : PFIZER HOLDING FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:68486929:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : MIOSTAT 100 microgrammes/ml, solution injectable pour voie intra-oculaire [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/miostat-100-microgrammes-ml-solution-injectable-pour-voie-intra-oculaire-carbachol</link>
+      <description>Statut : Tension — Laboratoire : LABORATOIRES ALCON</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:67713498:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : SUNITINIB BIOGARAN 37,5 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/sunitinib-37-5-mg-gelule-sunitinib</link>
+      <description>Statut : Tension — Laboratoire : BIOGARAN</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:62934770:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : SUNITINIB ZENTIVA 37,5 mg, gélule</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/sunitinib-37-5-mg-gelule-sunitinib</link>
+      <description>Statut : Tension — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:61717034:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : VITAMINE A PROVEPHARM 100 000 U.I./2 ml, solution injectable (I.M.) [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/vitamine-a-provepharm-100-000-u-i-2-ml-solution-injectable-i-m-palmitate-de-retinol</link>
+      <description>Statut : Tension — Laboratoire : PROVEPHARM</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:62583314:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : ZELBORAF 240 mg, comprimé pelliculé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/zelboraf-240-mg-comprime-pellicule-vemurafenib</link>
+      <description>Statut : Tension — Laboratoire : ROCHE REGISTRATION (ALLEMAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:nouvelle_tension:66271123:</guid>
+    </item>
+    <item>
+      <title>⬆️ Aggravation (tension → rupture) : FLUOROURACILE PFIZER 50 mg/mL, solution à diluer pour perfusion [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/fluorouracile-pfizer-50-mg-ml-solution-a-diluer-pour-perfusion-flacon-de-100-ml-fluorouracile</link>
+      <description>Statut : Rupture — Laboratoire : PFIZER HOLDING FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:aggravation:64590923:3400955090250</guid>
+    </item>
+    <item>
+      <title>⬆️ Aggravation (tension → rupture) : XARELTO 1 mg/mL, granulés pour supension buvable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/xarelto-1-mg-ml-granules-pour-supension-buvable-flacon-de-250-ml-rivaroxaban</link>
+      <description>Statut : Rupture — Laboratoire : BAYER AG (ALLEMAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:aggravation:66751738:3400930219867</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : DECTANCYL 0,5 mg, comprimé [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/dectancyl-0-5-mg-comprime-dexamethasone-acetate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : PHOENIX LABS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:62817482:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : DEPAKOTE 500 mg, comprimé gastro-résistant [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/depakote-500-mg-comprime-gastro-resistant-valproate-semisodique</link>
+      <description>Statut : Remise à disposition — Laboratoire : SANOFI WINTHROP INDUSTRIE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:60797287:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM AGUETTANT 100 mg, poudre pour solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : AGUETTANT</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:60666074:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM AGUETTANT 50 mg, poudre pour solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : AGUETTANT</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:64937231:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ALTAN 350 mg, poudre pour solution injectable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ALTAN PHARMACEUTICALS (ESPAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:61708252:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ALTAN 50 mg, poudre pour solution injectable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ALTAN PHARMACEUTICALS (ESPAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:67555219:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM HIKMA 10 mg/mL, solution injectable/pour perfusion [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : HIKMA FARMACEUTICA (PORTUGAL)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:62571408:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM KALCEKS 10 mg/mL, solution injectable/pour perfusion [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : KALCEKS (LETTONIE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:68802672:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 100 mg, lyophilisat pour usage parentéral [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:65607934:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 200 mg, lyophilisat pour usage parentéral [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:68787341:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 25 mg/10 ml, solution injectable (IM,IV) en ampoule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:69718946:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 350 mg, lyophilisat pour usage parentéral [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:66782502:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 5 mg/2 ml, solution injectable (IM,IV) en ampoule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:68546714:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : FOLINATE DE CALCIUM ZENTIVA 50 mg, lyophilisat pour usage parentéral [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/folinate-de-calcium-10-mg-ml-solution-injectable-pour-perfusion-folinate-et-levofolinate-de-calcium</link>
+      <description>Statut : Remise à disposition — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:61211453:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : NEGABAN 1 g, poudre pour solution injectable/pour perfusion</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/negaban-1-g-poudre-pour-solution-injectable-pour-perfusion-temocilline-disodique</link>
+      <description>Statut : Remise à disposition — Laboratoire : EUMEDICA PHARMACEUTICALS (ALLEMAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:62424059:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : ORACILLINE 250 000 UI/5 ml, suspension buvable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oracilline-250-000-ui-5-ml-suspension-buvable-benzathine-phenoxymethylpenicilline</link>
+      <description>Statut : Remise à disposition — Laboratoire : TEOFARMA</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:60270114:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : OZALIN 2 mg/mL, solution buvable en récipient unidose [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/ozalin-2-mg-ml-solution-buvable-en-recipient-unidose-midazolam</link>
+      <description>Statut : Remise à disposition — Laboratoire : ISTITUTO GENTILI (ITALIE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:62149015:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : RYTHMOL 300 mg, comprimé pelliculé sécable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/rythmol-300-mg-comprime-pellicule-secable-propafenone-chlorhydrate-de</link>
+      <description>Statut : Remise à disposition — Laboratoire : VIATRIS MEDICAL</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:66843923:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : TENORMINE 5 mg/10 ml, solution injectable IV en ampoule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tenormine-5-mg-10-ml-solution-injectable-iv-en-ampoule-atenolol</link>
+      <description>Statut : Remise à disposition — Laboratoire : ATNAHS PHARMA NETHERLANDS (PAYS-BAS)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:remise_a_disposition:61436304:</guid>
+    </item>
+    <item>
+      <title>⚫ Arrêt de commercialisation : HYDROCORTISONE SUBSTIPHARM 100 mg, lyophilisat (flacon) et solution pour usage parentéral [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/hydrocortisone-substipharm-100-mg-lyophilisat-flacon-et-solution-pour-usage-parenteral-hydrocortisone-hydrogenosuccinate-d</link>
+      <description>Statut : Arrêt de commercialisation — Laboratoire : SUBSTIPHARM</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:arret_commercialisation:62735380:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 10 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:64174946:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 15 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:69436263:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 2,5 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:60401186:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 20 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:60535915:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 25 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:69256226:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 5 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:66903224:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : LENALIDOMIDE MYLAN 7,5 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lenalidomide-mylan-gelule-lenalidomide</link>
+      <description>Statut : retiré de la liste — Laboratoire : MYLAN PHARMACEUTICALS (IRLANDE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:67762538:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : MAGINJECTABLE 0,8 POUR CENT, solution injectable [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/maginjectable-0-8-pour-cent-solution-injectable-magnesium-pidolate-de</link>
+      <description>Statut : retiré de la liste — Laboratoire : COOPER (ABRÉGÉ DE COOPERATION PHARMACEUTIQUE FRANCAISE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:64126741:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : PULMOCIS 2 mg, trousse pour préparation radiopharmaceutique [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/pulmocis-2-mg-trousse-pour-preparation-radiopharmaceutique-albumine-humaine-plasmatique-macroagregats-d</link>
+      <description>Statut : retiré de la liste — Laboratoire : CIS BIO INTERNATIONAL</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:67986283:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : RIFAMYCINE CHIBRET 1000 000 UI POUR CENT, collyre en solution [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/rifamycine-chibret-1000-000-ui-pour-cent-collyre-en-solution-rifamycine-sodique</link>
+      <description>Statut : retiré de la liste — Laboratoire : THEA</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:63828371:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : SCOPODERM TTS 1 mg/72 heures, dispositif transdermique</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/scopoderm-tts-1-mg-72-heures-dispositif-transdermique-scopolamine</link>
+      <description>Statut : retiré de la liste — Laboratoire : BB FARMA (ITALIE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:63034382:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : SCOPODERM TTS 1 mg/72 heures, dispositif transdermique [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/scopoderm-tts-1-mg-72-heures-dispositif-transdermique-scopolamine</link>
+      <description>Statut : retiré de la liste — Laboratoire : BAXTER</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:63958849:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : SCOPODERM TTS 1 mg/72 heures, dispositif transdermique</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/scopoderm-tts-1-mg-72-heures-dispositif-transdermique-scopolamine</link>
+      <description>Statut : retiré de la liste — Laboratoire : DIFARMED (ESPAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:68731823:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : SIBNAYAL 8 mEq, granulés à libération prolongée</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/sibnayal-8-meq-granules-a-liberation-prolongee-potassium-bicarbonate-de-potassium-citrate-de</link>
+      <description>Statut : retiré de la liste — Laboratoire : ADVICENNE</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:68005178:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : TOLVAPTAN BIOGARAN 15 mg, comprimé + TOLVAPTAN BIOGARAN 45 mg, comprimé</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tolvaptan-biogaran-15-mg-comprime-tolvaptan-biogaran-45-mg-comprime-tolvaptan</link>
+      <description>Statut : retiré de la liste — Laboratoire : BIOGARAN</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:69512405:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : UN-ALFA 0,10 microgramme, solution buvable en gouttes [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/un-alfa-0-10-microgramme-solution-buvable-en-gouttes-alfacalcidol</link>
+      <description>Statut : retiré de la liste — Laboratoire : CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:65401076:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : ZINNAT 125 mg/5 ml ENFANTS ET NOURRISSONS, granulés pour suspension buvable en flacon [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/zinnat-125-mg-5-ml-enfants-et-nourrissons-granules-pour-suspension-buvable-en-flacon-cefuroxime-axetil</link>
+      <description>Statut : retiré de la liste — Laboratoire : SANDOZ</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23:sortie_de_liste:61068069:</guid>
+    </item>
     <item>
       <title>🟠 Nouvelle tension : MODAMIDE 5 mg, comprimé [MITM]</title>
       <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/modamide-5-mg-comprime-amiloride-chlorhydrate-d-dihydrate</link>
