@@ -1,16 +1,16 @@
-# Veille des ruptures de médicaments — 25/10/2026
+# Veille des ruptures de médicaments — 26/10/2026
 
 | Indicateur | Valeur |
 |---|---|
 | Présentations en rupture | 61 |
 | Présentations en tension | 499 |
 | dont médicaments d'intérêt thérapeutique majeur | 480 |
-| Ancienneté médiane des indisponibilités | 584 jours |
+| Ancienneté médiane des indisponibilités | 585 jours |
 | Durée médiane des épisodes terminés (27) | 925 jours |
 
 ## Changements
 
-_Aucun changement depuis le 24/10/2026._
+_Aucun changement depuis le 25/10/2026._
 
 ## Indisponibilités par classe thérapeutique
 
@@ -44,4 +44,4 @@ _Aucun changement depuis le 24/10/2026._
 
 ---
 
-_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 25/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
+_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 26/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
