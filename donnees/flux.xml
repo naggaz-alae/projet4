@@ -3,9 +3,86 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 27/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 28/10/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <item>
+      <title>🔴 Nouvelle rupture : BREVIBLOC 100 mg/10 ml, solution injectable en flacon [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/brevibloc-100-mg-10-ml-solution-injectable-en-flacon-esmolol-chlorhydrate-d</link>
+      <description>Statut : Rupture — Laboratoire : BAXTER</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_rupture:63922956:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : MYDRIATICUM 0,5 POUR CENT, collyre [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/mydriaticum-0-5-pour-cent-collyre-flacons-de-10-ml-tropicamide</link>
+      <description>Statut : Tension — Laboratoire : THEA</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:62915154:3400930694985</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : NIFEDIPINE VIATRIS L.P. 30 mg, comprimé pelliculé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/nifedipine-viatris-l-p-30-mg-comprime-pellicule-a-liberation-prolongee-nifedipine</link>
+      <description>Statut : Tension — Laboratoire : VIATRIS SANTE</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:61636187:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : PARLODEL 10 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/parlodel-5-et-10-mg-gelule-bromocriptine-mesilate-de</link>
+      <description>Statut : Tension — Laboratoire : EXELTIS SANTE</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:66729097:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : PARLODEL 5 mg, gélule [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/parlodel-5-et-10-mg-gelule-bromocriptine-mesilate-de</link>
+      <description>Statut : Tension — Laboratoire : EXELTIS SANTE</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:64141483:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : RIFAMYCINE CHIBRET 1 000 000 UI/100 g, pommade ophtalmique [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/rifamycine-chibret-1-000-000-ui-100-g-pommade-ophtalmique-rifamycine-sodique</link>
+      <description>Statut : Tension — Laboratoire : THEA</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:68760013:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : TARKA LP 240 mg/2 mg, comprimé pelliculé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tarka-lp-240-mg-2-mg-comprime-pellicule-a-liberation-prolongee-boite-de-90-comprimes-trandolapril-verapamil-chlorhydrate-de</link>
+      <description>Statut : Tension — Laboratoire : VIATRIS MEDICAL</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:64603331:3400939314204</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : TARKA LP 240 mg/2 mg, comprimé pelliculé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/tarka-lp-240-mg-2-mg-comprime-pellicule-a-liberation-prolongee-boite-de-90-comprimes-trandolapril-verapamil-chlorhydrate-de</link>
+      <description>Statut : Tension — Laboratoire : VIATRIS MEDICAL</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:nouvelle_tension:64603331:3400939314433</guid>
+    </item>
+    <item>
+      <title>⬆️ Aggravation (tension → rupture) : YELLOX 0,9 mg/ml, collyre en solution [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/yellox-0-9-mg-ml-collyre-en-solution-bromfenac-sodique-sesquihydrate</link>
+      <description>Statut : Rupture — Laboratoire : BAUSCH + LOMB IRELAND (IRLANDE)</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:aggravation:64304674:</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : PLASMION, solution pour perfusion [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/plasmion-solution-pour-perfusion-gelatine-fluide-modifiee-partiellement-hydrolysee-et-succinylee</link>
+      <description>Statut : Remise à disposition — Laboratoire : FRESENIUS KABI FRANCE</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:remise_a_disposition:69077294:</guid>
+    </item>
+    <item>
+      <title>🟢 Sortie de la liste : WINREVAIR 45 mg, poudre et solvant pour solution injectable</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/winrevair-45mg-et-60mg-poudre-et-solvant-pour-solution-injectable-sotatercept</link>
+      <description>Statut : retiré de la liste — Laboratoire : MERCK SHARP &amp; DOHME (PAYS-BAS)</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28:sortie_de_liste:61615894:</guid>
+    </item>
     <item>
       <title>🔴 Nouvelle rupture : OXYBATE DE SODIUM REIG JOFRE 500 mg/mL, solution buvable</title>
       <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/oxybate-de-sodium-reig-jofre-500-mg-ml-solution-buvable-sodium-oxybate-de</link>
