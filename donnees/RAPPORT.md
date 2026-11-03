@@ -1,16 +1,16 @@
-# Veille des ruptures de médicaments — 02/11/2026
+# Veille des ruptures de médicaments — 03/11/2026
 
 | Indicateur | Valeur |
 |---|---|
 | Présentations en rupture | 63 |
 | Présentations en tension | 503 |
 | dont médicaments d'intérêt thérapeutique majeur | 487 |
-| Ancienneté médiane des indisponibilités | 592 jours |
+| Ancienneté médiane des indisponibilités | 593 jours |
 | Durée médiane des épisodes terminés (29) | 250 jours |
 
 ## Changements
 
-_Aucun changement depuis le 01/11/2026._
+_Aucun changement depuis le 02/11/2026._
 
 ## Indisponibilités par classe thérapeutique
 
@@ -39,9 +39,9 @@ _Aucun changement depuis le 01/11/2026._
 | ZENTIVA FRANCE | 24 |
 | SANDOZ | 24 |
 | ACCORD HEALTHCARE FRANCE | 23 |
-| Inconnu | 15 |
+| Inconnu | 16 |
 | ZYDUS FRANCE | 13 |
 
 ---
 
-_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 02/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
+_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 03/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
