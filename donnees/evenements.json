@@ -1,8 +1,68 @@
 {
-  "date": "2026-11-03",
-  "attribution": "Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 03/11/2026.",
+  "date": "2026-11-04",
+  "attribution": "Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 04/11/2026.",
   "avertissement": "Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.",
   "evenements": [
+    {
+      "type": "nouvelle_tension",
+      "libelle": "Nouvelle tension",
+      "date": "2026-11-04",
+      "cle": "62413408:",
+      "denomination": "CIS 62413408",
+      "titulaire": null,
+      "est_mitm": false,
+      "statut_avant": null,
+      "statut_apres": "tension",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/specialites-a-base-de-furosemide-20-mg-et-40-mg-en-comprimes-furosemide"
+    },
+    {
+      "type": "nouvelle_tension",
+      "libelle": "Nouvelle tension",
+      "date": "2026-11-04",
+      "cle": "65102095:",
+      "denomination": "CIS 65102095",
+      "titulaire": null,
+      "est_mitm": false,
+      "statut_avant": null,
+      "statut_apres": "tension",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/specialites-a-base-de-furosemide-20-mg-et-40-mg-en-comprimes-furosemide"
+    },
+    {
+      "type": "nouvelle_tension",
+      "libelle": "Nouvelle tension",
+      "date": "2026-11-04",
+      "cle": "62044509:3400930237557",
+      "denomination": "ICATIBANT ZENTIVA 30 mg, solution injectable en seringue préremplie",
+      "titulaire": "ZENTIVA FRANCE",
+      "est_mitm": true,
+      "statut_avant": null,
+      "statut_apres": "tension",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/icatibant-zentiva-30-mg-solution-injectable-en-seringue-preremplie-1-seringue-preremplie-en-verre-de-3-ml-avec-1-aiguille-icatibant-acetate-d"
+    },
+    {
+      "type": "remise_a_disposition",
+      "libelle": "Remise à disposition",
+      "date": "2026-11-04",
+      "cle": "64269668:",
+      "denomination": "M-M-RVAXPRO poudre et solvant pour suspension injectable en seringue préremplie.Vaccin rougeoleux, des oreillons, et rubéoleux (vivant).",
+      "titulaire": "MERCK SHARP & DOHME (PAYS-BAS)",
+      "est_mitm": true,
+      "statut_avant": "tension",
+      "statut_apres": "remise_a_disposition",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/m-m-rvaxpro-poudre-et-solvant-pour-suspension-injectable-en-seringue-preremplie-vaccin-rougeoleux-des-oreillons-et-rubeoleux-vivant-virus-de-la-rougeole-virus-de-la-rubeole-virus-des-oreillons"
+    },
+    {
+      "type": "arret_commercialisation",
+      "libelle": "Arrêt de commercialisation",
+      "date": "2026-11-04",
+      "cle": "67579483:",
+      "denomination": "SECTRAL LP 500 mg, comprimé pelliculé à libération prolongée",
+      "titulaire": "CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)",
+      "est_mitm": true,
+      "statut_avant": "rupture",
+      "statut_apres": "arret_commercialisation",
+      "lien": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/sectral-lp-500-mg-comprime-pellicule-a-liberation-prolongee-acebutolol-chlorhydrate-d"
+    },
     {
       "type": "nouvelle_rupture",
       "libelle": "Nouvelle rupture",

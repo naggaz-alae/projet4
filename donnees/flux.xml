@@ -3,9 +3,44 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 03/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 04/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:00:00 +0000</lastBuildDate>
+    <item>
+      <title>🟠 Nouvelle tension : CIS 62413408</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/specialites-a-base-de-furosemide-20-mg-et-40-mg-en-comprimes-furosemide</link>
+      <description>Statut : Tension</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04:nouvelle_tension:62413408:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : CIS 65102095</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/specialites-a-base-de-furosemide-20-mg-et-40-mg-en-comprimes-furosemide</link>
+      <description>Statut : Tension</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04:nouvelle_tension:65102095:</guid>
+    </item>
+    <item>
+      <title>🟠 Nouvelle tension : ICATIBANT ZENTIVA 30 mg, solution injectable en seringue préremplie [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/icatibant-zentiva-30-mg-solution-injectable-en-seringue-preremplie-1-seringue-preremplie-en-verre-de-3-ml-avec-1-aiguille-icatibant-acetate-d</link>
+      <description>Statut : Tension — Laboratoire : ZENTIVA FRANCE</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04:nouvelle_tension:62044509:3400930237557</guid>
+    </item>
+    <item>
+      <title>🟢 Remise à disposition : M-M-RVAXPRO poudre et solvant pour suspension injectable en seringue préremplie.Vaccin rougeoleux, des oreillons, et rubéoleux (vivant). [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/m-m-rvaxpro-poudre-et-solvant-pour-suspension-injectable-en-seringue-preremplie-vaccin-rougeoleux-des-oreillons-et-rubeoleux-vivant-virus-de-la-rougeole-virus-de-la-rubeole-virus-des-oreillons</link>
+      <description>Statut : Remise à disposition — Laboratoire : MERCK SHARP &amp; DOHME (PAYS-BAS)</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04:remise_a_disposition:64269668:</guid>
+    </item>
+    <item>
+      <title>⚫ Arrêt de commercialisation : SECTRAL LP 500 mg, comprimé pelliculé à libération prolongée [MITM]</title>
+      <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/sectral-lp-500-mg-comprime-pellicule-a-liberation-prolongee-acebutolol-chlorhydrate-d</link>
+      <description>Statut : Arrêt de commercialisation — Laboratoire : CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04:arret_commercialisation:67579483:</guid>
+    </item>
     <item>
       <title>🔴 Nouvelle rupture : BREVIBLOC 100 mg/10 ml, solution injectable en flacon [MITM]</title>
       <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/brevibloc-100-mg-10-ml-solution-injectable-en-flacon-esmolol-chlorhydrate-d</link>
