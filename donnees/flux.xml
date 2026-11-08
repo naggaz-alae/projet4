@@ -3,9 +3,9 @@
   <channel>
     <title>Veille des ruptures de médicaments</title>
     <link>https://github.com/naggaz-alae/projet4/blob/main/donnees/RAPPORT.md</link>
-    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 07/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
+    <description>Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 08/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM.</description>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 07 Nov 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:00:00 +0000</lastBuildDate>
     <item>
       <title>🟠 Nouvelle tension : CIS 62413408</title>
       <link>https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/specialites-a-base-de-furosemide-20-mg-et-40-mg-en-comprimes-furosemide</link>
