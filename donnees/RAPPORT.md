@@ -1,16 +1,16 @@
-# Veille des ruptures de médicaments — 19/11/2026
+# Veille des ruptures de médicaments — 20/11/2026
 
 | Indicateur | Valeur |
 |---|---|
 | Présentations en rupture | 62 |
 | Présentations en tension | 521 |
 | dont médicaments d'intérêt thérapeutique majeur | 502 |
-| Ancienneté médiane des indisponibilités | 609 jours |
+| Ancienneté médiane des indisponibilités | 610 jours |
 | Durée médiane des épisodes terminés (31) | 250 jours |
 
 ## Changements
 
-_Aucun changement depuis le 18/11/2026._
+_Aucun changement depuis le 19/11/2026._
 
 ## Indisponibilités par classe thérapeutique
 
@@ -32,16 +32,16 @@ _Aucun changement depuis le 18/11/2026._
 | Titulaire | Nombre |
 |---|---|
 | ARROW GENERIQUES | 38 |
+| BIOGARAN | 38 |
 | EG LABO - LABORATOIRES EUROGENERICS | 36 |
 | VIATRIS SANTE | 35 |
-| BIOGARAN | 33 |
+| ZENTIVA FRANCE | 27 |
 | TEVA SANTE | 27 |
-| ZENTIVA FRANCE | 26 |
 | SANDOZ | 26 |
-| Inconnu | 25 |
 | ACCORD HEALTHCARE FRANCE | 23 |
+| Inconnu | 18 |
 | ZYDUS FRANCE | 15 |
 
 ---
 
-_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 19/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
+_Source : ANSM, Base de données publique des médicaments (licence Etalab 2.0), données du 20/11/2026. Outil d'information indépendant, non affilié à l'ANSM. La référence officielle reste le site de l'ANSM._
